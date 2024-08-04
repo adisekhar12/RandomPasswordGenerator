@@ -25,8 +25,6 @@ Add options for password saving (locally or securely).
 Consider dark mode or other theme options.
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
-
-License
-This project is licensed under the [License Name] license.   
+   
 
 
