@@ -10,7 +10,7 @@ JavaScript
 Getting Started
 Clone the repository:
 Bash
-git clone https://github.com/adisekhar12/random-password-generator.git
+git clone https://github.com/adisekhar12/ranpasgen.git
 Use code with caution.
 
 Open the index.html file in your web browser.
